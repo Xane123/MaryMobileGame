@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" width="75" height="9" tilewidth="80" tileheight="80">
+<map version="1.0" tiledversion="1.1.6" orientation="orthogonal" renderorder="right-down" width="56" height="27" tilewidth="80" tileheight="80" infinite="0" nextobjectid="1">
  <properties>
   <property name="StartDirection" value="0"/>
  </properties>
- <tileset firstgid="1" name="Untitled" tilewidth="80" tileheight="80">
+ <tileset firstgid="1" name="Untitled" tilewidth="80" tileheight="80" tilecount="32" columns="8">
   <image source="tileset.png" width="640" height="320"/>
  </tileset>
- <layer name="Level" width="75" height="9">
+ <layer name="Level" width="56" height="27">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAAC2NgGAWjYGgAsYF2AJWBKA3NlkNiM6NhGGCBYgY8atH1wAArFJOjlw2KSdEri8UcSgCy+UzDFNMibIYzEAZiEQJqRmrYIANGIJYGYhkoH1t+Halhgw5omU+HGwAAV+73/IwKAAA=
+   H4sIAAAAAAAACuWX2wrCMAyG63QgiBceEJzi+z+myUWhhOnSkjRZ9sF/MdihX5ttzZhSGoMnKpHdkOx3g9whD8OxaIB+O8gL8oZ8bIcjDvoNRaLVK/XZmt9AjvcL96PnW8Ndv7KG14R2fbbMx1nw+R7fvyPjHO689fbrXeNzfqfKtFwjHTpnF8h1xq8FDzVNeUKmFNdPcr/i0U8SD36a3ywPfppI+NXujyz/MZIcFO/NBf1yf8ylZp2s973ol/vjEg9zLwHtkX9lrfT6fi71nlq0+HHWtaYGNOtkC/8/6/7hX759xrAzoBcAAA==
   </data>
  </layer>
 </map>
