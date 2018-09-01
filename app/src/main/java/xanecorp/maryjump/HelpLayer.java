@@ -1,4 +1,4 @@
-package bb.hoppingbird;
+package xanecorp.maryjump;
 
 import org.cocos2d.layers.CCLayer;
 import org.cocos2d.layers.CCScene;

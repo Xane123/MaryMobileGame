@@ -1,4 +1,4 @@
-package bb.hoppingbird;
+package xanecorp.maryjump;
 
 import org.cocos2d.actions.base.CCAction;
 import org.cocos2d.actions.base.CCRepeatForever;
