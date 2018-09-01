@@ -36,10 +36,10 @@ public class MenuLayer extends CCLayer {
 		bird.setPosition(0, 0);
 		addChild(bird);
 
-		CCSprite leaves = new CCSprite("menu/leaves.png");
+		/*CCSprite leaves = new CCSprite("menu/leaves.png");
 		leaves.setAnchorPoint(0, 1);
 		leaves.setPosition(0, G.height);
-		addChild(leaves);
+		addChild(leaves);*/
 
 		CCSprite title = new CCSprite("menu/title.png");
 		title.setPosition(G.width*0.47f, G.height*0.73f);
