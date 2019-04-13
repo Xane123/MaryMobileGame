@@ -8,7 +8,7 @@
  </tileset>
  <layer id="1" name="Level" width="30" height="10">
   <data encoding="base64" compression="gzip">
-   H4sIAAAAAAAACq2Suw6AIAxFq4TBwcHH4uP/v9MyNDY3gKV4k5MYJJxSSvSdYNgjiQ17/3L2ekcA6wjqu8e7MbuznuQeFFZv2nsxNzPDGTliYX1h1sp/IXeHyeGV+x7MafCiv9YPHd1HeV9dO3oxej5aks61zgPR2xOs0eOVedC9FvSaxOtCL851ido7PpjhoQawBAAA
+   H4sIAAAAAAAACq2SwQrAIAxD3cTDDju52/b/37l6KIRgna0LBERLX6lJ6Vt5okZVHLV/MVe5O5nnyHBe4VbxFZynsTfwLLfV3uJHfFKPnotxr7LeuQ7nPwLcTP3SRA+ut/aBwj1amRv1x3x45M2r7kRZvax6ubhrNd6poizmcq4tj/7xBU5uEXuwBAAA
   </data>
  </layer>
 </map>
